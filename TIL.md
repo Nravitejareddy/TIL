@@ -10,4 +10,6 @@
 - Queries with Expressions
 - Queries with Aggregates
 - Order of Execution of a Query
-
+- Inserting Rows
+- Updating Rows
+- Deleting Rows
