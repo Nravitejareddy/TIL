@@ -13,3 +13,4 @@
 - Inserting Rows
 - Updating Rows
 - Deleting Rows
+- Dropping Tables
